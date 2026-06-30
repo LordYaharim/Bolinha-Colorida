@@ -8,7 +8,7 @@ let escala = 1;
 // ======================
 // ESTADOS
 // ======================
-let estado = "final";
+let estado = "menu";
 let modo = "";
 
 // ======================
