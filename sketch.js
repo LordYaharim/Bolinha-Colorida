@@ -136,7 +136,7 @@ function preload() {
 
   fonteTitulo = loadFont("Flavors-Regular.ttf");
   fonteTexto = loadFont("Nunito-Regular.ttf");
-  fonteBotoes = loadFont("Fredoka-Regular.ttf");
+  fonteBotoes = loadFont("Baloo-Regular.ttf");
   fonteFases = loadFont("Nunito-ExtraBold.ttf");
   fonteGameover = loadFont("Nunito-ExtraBold.ttf");
 // IMAGENS
