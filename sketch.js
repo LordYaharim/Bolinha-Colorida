@@ -448,7 +448,7 @@ tituloColorido(
   textFont(fonteBotoes);
   fill(0);
   textSize(30);
-  text("Começar", 400, 195);
+  text("Começar", 400, 205);
   
   
 }
