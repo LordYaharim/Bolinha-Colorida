@@ -987,7 +987,7 @@ function desenharFundo() {
     let imgNuvem = escolherImagem(
       imgNuvemBW,
       imgNuvemColor,
-      "blue"
+      "indigo"
       );
 
     image(imgNuvem, 90, 80, 120, 70);
