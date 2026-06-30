@@ -508,7 +508,7 @@ image(imgGuardasolBW,    LARGURA_BASE * 0.925, ALTURA_BASE - 60, 100, 100);*/
 
   textFont(fonteBotoes);
   fill(0);
-  textSize(28);
+  textSize(29);
   text(
     "Vamos lá!",
     LARGURA_BASE / 2,
