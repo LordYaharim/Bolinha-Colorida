@@ -512,7 +512,7 @@ image(imgGuardasolBW,    LARGURA_BASE * 0.925, ALTURA_BASE - 60, 100, 100);*/
   text(
     "Vamos lá!",
     LARGURA_BASE / 2,
-    300
+    295
   );
 }
 
