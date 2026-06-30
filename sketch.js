@@ -532,7 +532,7 @@ function desenharGameOver() {
   fill(255);
   textSize(26);
   textFont(fonteBotoes);
-  text("Recomeçar Fase", 400, 205);
+  text("Recomeçar Fase", 400, 200);
 
   // MENU
   fill(150);
@@ -540,7 +540,7 @@ function desenharGameOver() {
 
   fill(255);
   textFont(fonteBotoes);
-  text("Retornar ao Menu", 400, 275);
+  text("Retornar ao Menu", 400, 270);
 }
 
 function desenharFinal() {
